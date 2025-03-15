@@ -5,7 +5,7 @@
 <h1 align="center"> Amigo Secreto </h1> 
 
 Índice
-¿Qué hace la página?
+1. [Introducción](#introducción)
 
 Funcionalidades
 
