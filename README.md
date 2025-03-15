@@ -8,7 +8,7 @@
 
 * [Introducción](#introducción)
 * [Funcionalides](#funcionalidades)
-* [Tecnologías usadas](#Tecnologías) 
+* [Tecnologías](#tecnologías)
 
 <h2>introducción</h2>   
 ¿Qué hace la página? Esta página web permite a los usuarios agregar nombres a una lista y luego sortearlos para seleccionar un ganador de manera aleatoria. Es una herramienta sencilla y útil para realizar sorteos en eventos, reuniones o cualquier ocasión en la que se necesite elegir a una persona de forma aleatoria.
@@ -24,7 +24,7 @@
 
 <h4>Validación de entrada:</h4> Si el campo de texto está vacío, se muestra una alerta pidiendo al usuario que ingrese un nombre.
 
-<h2>Tecnologías usadas</h2>
+<h2>Tecnologías</h2>
 JavaScript: Se utiliza para manejar la lógica de la aplicación, incluyendo la adición de nombres a la lista, la limpieza del campo de texto y el sorteo de nombres.
 
 CSS: Se emplea para estilizar la página y mejorar la experiencia del usuario.
