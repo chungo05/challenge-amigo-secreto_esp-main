@@ -4,28 +4,27 @@
 
 <h1 align="center"> Amigo Secreto </h1> 
 
-Índice
-1. [Introducción](#introducción)
+<h2>Índice </h2>
 
-Funcionalidades
+* [Introducción](#introducción)
+* [Funcionalides](#funcionalidades)
+* [Tecnologías usadas](#Tecnologías) 
 
-Tecnologías usadas
+<h2>introducción</h2>   
+¿Qué hace la página? Esta página web permite a los usuarios agregar nombres a una lista y luego sortearlos para seleccionar un ganador de manera aleatoria. Es una herramienta sencilla y útil para realizar sorteos en eventos, reuniones o cualquier ocasión en la que se necesite elegir a una persona de forma aleatoria.
 
-¿Qué hace la página?
-Esta página web permite a los usuarios agregar nombres a una lista y luego sortearlos para seleccionar un ganador de manera aleatoria. Es una herramienta sencilla y útil para realizar sorteos en eventos, reuniones o cualquier ocasión en la que se necesite elegir a una persona de forma aleatoria.
+<h2>Funcionalidades</h2>
+<h4>Agregar nombres:</h4> Los usuarios pueden ingresar nombres en un campo de texto y agregarlos a una lista.
 
-Funcionalidades
-Agregar nombres: Los usuarios pueden ingresar nombres en un campo de texto y agregarlos a una lista.
+<h4>Mostrar lista de nombres:</h4> Los nombres agregados se muestran en una lista en la página.
 
-Mostrar lista de nombres: Los nombres agregados se muestran en una lista en la página.
+<h4>Limpiar campo de texto:</h4> Después de agregar un nombre, el campo de texto se limpia automáticamente para facilitar la entrada del siguiente nombre.
 
-Limpiar campo de texto: Después de agregar un nombre, el campo de texto se limpia automáticamente para facilitar la entrada del siguiente nombre.
+<h4>Sortear un nombre:</h4> La página permite sortear un nombre de la lista de manera aleatoria y mostrar el resultado en pantalla.
 
-Sortear un nombre: La página permite sortear un nombre de la lista de manera aleatoria y mostrar el resultado en pantalla.
+<h4>Validación de entrada:</h4> Si el campo de texto está vacío, se muestra una alerta pidiendo al usuario que ingrese un nombre.
 
-Validación de entrada: Si el campo de texto está vacío, se muestra una alerta pidiendo al usuario que ingrese un nombre.
-
-Tecnologías usadas
+<h2>Tecnologías usadas</h2>
 JavaScript: Se utiliza para manejar la lógica de la aplicación, incluyendo la adición de nombres a la lista, la limpieza del campo de texto y el sorteo de nombres.
 
 CSS: Se emplea para estilizar la página y mejorar la experiencia del usuario.
